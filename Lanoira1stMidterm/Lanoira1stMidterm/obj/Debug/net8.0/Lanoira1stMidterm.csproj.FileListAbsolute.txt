@@ -1,0 +1,14 @@
+C:\Users\Lex Erichson\source\repos\Lanoira1stMidterm\Lanoira1stMidterm\obj\Debug\net8.0\Lanoira1stMidterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lex Erichson\source\repos\Lanoira1stMidterm\Lanoira1stMidterm\obj\Debug\net8.0\Lanoira1stMidterm.AssemblyInfoInputs.cache
+C:\Users\Lex Erichson\source\repos\Lanoira1stMidterm\Lanoira1stMidterm\obj\Debug\net8.0\Lanoira1stMidterm.AssemblyInfo.cs
+C:\Users\Lex Erichson\source\repos\Lanoira1stMidterm\Lanoira1stMidterm\obj\Debug\net8.0\Lanoira1stMidterm.csproj.CoreCompileInputs.cache
+C:\Users\Lex Erichson\source\repos\Lanoira1stMidterm\Lanoira1stMidterm\bin\Debug\net8.0\Lanoira1stMidterm.exe
+C:\Users\Lex Erichson\source\repos\Lanoira1stMidterm\Lanoira1stMidterm\bin\Debug\net8.0\Lanoira1stMidterm.deps.json
+C:\Users\Lex Erichson\source\repos\Lanoira1stMidterm\Lanoira1stMidterm\bin\Debug\net8.0\Lanoira1stMidterm.runtimeconfig.json
+C:\Users\Lex Erichson\source\repos\Lanoira1stMidterm\Lanoira1stMidterm\bin\Debug\net8.0\Lanoira1stMidterm.dll
+C:\Users\Lex Erichson\source\repos\Lanoira1stMidterm\Lanoira1stMidterm\bin\Debug\net8.0\Lanoira1stMidterm.pdb
+C:\Users\Lex Erichson\source\repos\Lanoira1stMidterm\Lanoira1stMidterm\obj\Debug\net8.0\Lanoira1stMidterm.dll
+C:\Users\Lex Erichson\source\repos\Lanoira1stMidterm\Lanoira1stMidterm\obj\Debug\net8.0\refint\Lanoira1stMidterm.dll
+C:\Users\Lex Erichson\source\repos\Lanoira1stMidterm\Lanoira1stMidterm\obj\Debug\net8.0\Lanoira1stMidterm.pdb
+C:\Users\Lex Erichson\source\repos\Lanoira1stMidterm\Lanoira1stMidterm\obj\Debug\net8.0\Lanoira1stMidterm.genruntimeconfig.cache
+C:\Users\Lex Erichson\source\repos\Lanoira1stMidterm\Lanoira1stMidterm\obj\Debug\net8.0\ref\Lanoira1stMidterm.dll

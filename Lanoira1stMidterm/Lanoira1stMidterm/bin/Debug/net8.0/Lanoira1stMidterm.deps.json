@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lanoira1stMidterm/1.0.0": {
+        "runtime": {
+          "Lanoira1stMidterm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lanoira1stMidterm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
